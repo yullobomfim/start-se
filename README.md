@@ -1,3 +1,6 @@
+Vamo que vamo!!!
+Rumo ao desafio StartSe
+
 O desafio consiste em refatorar o projeto realizado na live Coding do dia 28/05, utilizando tags semânticas
 
 Posso enviar o projeto até dia 05/06 às 23h59.
