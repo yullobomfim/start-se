@@ -226,6 +226,9 @@ p {
   .footer__copy {
     display: block;
     text-align: center;
+    justify-content: center;
+    display: flex;
+
   }
   
 /* Keyframes */
